@@ -46,7 +46,11 @@ I'm Donghun Won developer from Seoul, South Korea
 ![Static Badge](https://img.shields.io/badge/pwa-%235A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astin01)](https://github.com/Astin01/github-readme-stats)
+![Astin01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astin01&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astin01&layout=compact&theme=dark)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wonhun1225@naver.com)](https://solved.ac/wonhun1225@naver.com)
 
 ## Posts
 [Software Architecture](https://astin01.notion.site/software-architecture-79ff42af8dce41a5b7865e699e64937c?pvs=4)
