@@ -47,9 +47,8 @@ I'm Donghun Won developer from Seoul, South Korea
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astin01)](https://github.com/Astin01/github-readme-stats)
-## Projects
 
-## Blog
+## Posts
 [Software Architecture](https://astin01.notion.site/software-architecture-79ff42af8dce41a5b7865e699e64937c?pvs=4)
 
 [Git](https://astin01.notion.site/Git-1d07f737653e4de5b91b4597b11fb4c2?pvs=4)
