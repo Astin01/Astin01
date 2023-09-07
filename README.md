@@ -32,7 +32,7 @@ I'm Donghun Won developer from Seoul, South Korea
 ![Static Badge](https://img.shields.io/badge/bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/eslint-%234B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 
 
 ![Static Badge](https://img.shields.io/badge/nestjs-%23E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -40,7 +40,7 @@ I'm Donghun Won developer from Seoul, South Korea
 ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/swagger-%2385EA2D?style=flat-square&logo=swagger&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/.env-%23ECD53F?style=flat-square&logo=.env&logoColor=white)
-
+![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ## Sub
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
@@ -54,7 +54,7 @@ I'm Donghun Won developer from Seoul, South Korea
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astin01&layout=compact&theme=dark)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=onecode)](https://solved.ac/onecode)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=onecode)](https://solved.ac/onecode)
 
 ## Posts
 [Software Architecture](https://astin01.notion.site/software-architecture-79ff42af8dce41a5b7865e699e64937c?pvs=4)
