@@ -50,7 +50,7 @@ I'm Donghun Won developer from Seoul, South Korea
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astin01&layout=compact&theme=dark)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wonhun1225@naver.com)](https://solved.ac/wonhun1225@naver.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=onecode)](https://solved.ac/onecode)
 
 ## Posts
 [Software Architecture](https://astin01.notion.site/software-architecture-79ff42af8dce41a5b7865e699e64937c?pvs=4)
