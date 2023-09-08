@@ -56,6 +56,8 @@ I'm Donghun Won developer from Seoul, South Korea
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=onecode)](https://solved.ac/onecode)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Astin01&theme=nord)](https://github.com/Astin01/github-profile-trophy)
+
 ## Posts
 [Software Architecture](https://astin01.notion.site/software-architecture-79ff42af8dce41a5b7865e699e64937c?pvs=4)
 
