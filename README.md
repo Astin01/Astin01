@@ -48,8 +48,6 @@ I'm Donghun Won developer from Seoul, South Korea
 ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/tensorflow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-github-readme-stats-tau-three-83.vercel.app
-
 ## Stats
 ![Astin01's GitHub stats](https://github-readme-stats-tau-three-83.vercel.app/api?username=Astin01&show_icons=true&theme=dark)
 
