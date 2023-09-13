@@ -48,11 +48,12 @@ I'm Donghun Won developer from Seoul, South Korea
 ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/tensorflow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
+github-readme-stats-tau-three-83.vercel.app
 
 ## Stats
-![Astin01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astin01&show_icons=true&theme=dark)
+![Astin01's GitHub stats](https://github-readme-stats-tau-three-83.vercel.app/api?username=Astin01&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astin01&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-tau-three-83.vercel.app/api/top-langs/?username=Astin01&layout=compact&theme=dark)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=onecode)](https://solved.ac/onecode)
 
