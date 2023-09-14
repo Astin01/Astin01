@@ -48,19 +48,5 @@ I'm Donghun Won developer from Seoul, South Korea
 ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/tensorflow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-## Stats
-![Astin01's GitHub stats](https://github-readme-stats-tau-three-83.vercel.app/api?username=Astin01&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats-tau-three-83.vercel.app/api/top-langs/?username=Astin01&layout=compact&theme=dark)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=onecode)](https://solved.ac/onecode)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Astin01&theme=nord)](https://github.com/Astin01/github-profile-trophy)
-
-## Posts
-[Software Architecture](https://astin01.notion.site/software-architecture-79ff42af8dce41a5b7865e699e64937c?pvs=4)
-
-[Git](https://astin01.notion.site/Git-1d07f737653e4de5b91b4597b11fb4c2?pvs=4)
-
-[Clean Code](https://astin01.notion.site/clean-code-js-add2c006a05a4ab19eb169e2af3188c2?pvs=4)
 
