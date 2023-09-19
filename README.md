@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Welcome to my page!
 
 I'm Donghun Won developer from Seoul, South Korea
-## Main
+## Things I code with
 
 ![Static Badge](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/typescript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -42,7 +42,7 @@ I'm Donghun Won developer from Seoul, South Korea
 ![Static Badge](https://img.shields.io/badge/.env-%23ECD53F?style=flat-square&logo=.env&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-## Sub
+
 ![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/pwa-%235A0FC8?style=flat-square&logo=pwa&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white)
