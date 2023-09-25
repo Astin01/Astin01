@@ -43,10 +43,7 @@ I'm Donghun Won developer from Seoul, South Korea
 ![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 
-![Static Badge](https://img.shields.io/badge/docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-![Static Badge](https://img.shields.io/badge/pwa-%235A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![Static Badge](https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/tensorflow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
 
 
 
