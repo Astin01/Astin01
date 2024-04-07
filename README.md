@@ -1,21 +1,24 @@
 
-<!--
-**Astin01/Astin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dong%20Hun%20Won&fontSize=90)
 
-### Hi 👋 I'm Dong hun Won
-Welcome to my page!
+## Welcome to Astin's Github!
 
-I'm Donghun Won developer from Seoul, South Korea
+### 🔔 Profile
+
+🇰🇷 SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY. Dept. of Computer Science & Engineering (2019~)
+
+### 📢 Languages
+
+- java
+- spring
+- spring boot
+- spring data jpa
+- mysql
+- aws : ec2, rds
+- nginx
+   
+### 🎉 Projects
+
+|projects|contest|Award|Year
+|:---:|:---:|:---:|:---:|
+|[공릉동 음식점wiki - zero plate](https://github.com/Astin01/plate-web)|개인|-|2024|
